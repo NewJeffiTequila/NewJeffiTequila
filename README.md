@@ -7,6 +7,9 @@
 [![N|Solid](https://icon-icons.com/icons2/1476/PNG/48/youtube2_101784.png)](https://www.youtube.com/channel/UC0Z77N2N9wD5IJxlkRRTRog?view_as=subscriber)
 
 ### Sobre mim 
-Desenvolvedor backend apaixonado por tecnolodia e sempre procurando aprender mais e mais, espero que gostem do que veram aqui :)
+Desenvolvedor backend apaixonado por tecnolodia e sempre procurando aprender mais e mais, espero que gostem do que verão aqui :)
+
+![NewJeffiTequila](https://github-readme-stats.vercel.app/api?username=NewJeffiTequila&show_icons=true&theme=default)
+
 
 - [Blog](newjeffitequila.github.io) ✍🏼 - I'm write about many things.
