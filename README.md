@@ -9,8 +9,8 @@
 ### Sobre mim 
 Desenvolvedor backend apaixonado por tecnolodia e sempre procurando aprender mais e mais, espero que gostem do que verão aqui :)
 
-![NewJeffiTequila](https://github-readme-stats.vercel.app/api?username=NewJeffiTequila&show_icons=true&theme=default)
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewJeffiTequila&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NewJeffiTequila&count_private=true&show_icons=true&theme=radical&line_height=33)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewJeffiTequila&theme=radical&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
