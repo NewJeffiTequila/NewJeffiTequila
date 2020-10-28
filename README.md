@@ -10,6 +10,8 @@
 Desenvolvedor backend apaixonado por tecnolodia e sempre procurando aprender mais e mais, espero que gostem do que verão aqui :)
 
 ![NewJeffiTequila](https://github-readme-stats.vercel.app/api?username=NewJeffiTequila&show_icons=true&theme=default)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewJeffiTequila&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- [Blog](newjeffitequila.github.io) ✍🏼 - I'm write about many things.
+
+- [Blog](newjeffitequila.github.io) ✍🏼 - Meus projetos
