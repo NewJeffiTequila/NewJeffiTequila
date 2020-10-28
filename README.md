@@ -10,7 +10,7 @@
 Desenvolvedor backend apaixonado por tecnolodia e sempre procurando aprender mais e mais, espero que gostem do que verão aqui :)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NewJeffiTequila&count_private=true&show_icons=true&theme=monokai&line_height=33)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewJeffiTequila&theme=monokai &langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewJeffiTequila&theme=monokai&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
