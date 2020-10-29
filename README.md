@@ -1,4 +1,4 @@
-# Hello Guys, I'm Jeff! :D <img src="https://acegif.com/wp-content/gifs/globe-37.gif" width="100px">
+# Hello Guys, I'm Jeff! :D <img style="margin-top:10px;" src="https://acegif.com/wp-content/gifs/globe-37.gif" width="150px">
 
 [![N|Solid](https://icon-icons.com/icons2/1476/PNG/48/linkedin_101776.png)](https://www.linkedin.com/in/jefferson-costa-968310166/)
 [![N|Solid](https://icon-icons.com/icons2/1476/PNG/48/instagram_101780.png)](https://www.instagram.com/jeffitequila/)
